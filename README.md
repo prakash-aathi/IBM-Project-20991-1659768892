@@ -8,7 +8,7 @@ My personal portfolio which features my resume and technical skills.
 
 ## Preview
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](supporting_files/Preview Portfolio.png)
 
 
 ## Built With
@@ -37,3 +37,4 @@ Industry Mentor(s) Name : Sowjanya, Sandeep Doodigani
 
 ## Live
 
+- [My Portfolio] (https://ibm-epbl.github.io/IBM-Project-20991-1659768892/)
