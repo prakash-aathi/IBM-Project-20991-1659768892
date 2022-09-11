@@ -8,7 +8,7 @@ My personal portfolio which features my resume and technical skills.
 
 ## Preview
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](supporting_files/Preview.png)
 
 
 ## Built With
@@ -36,4 +36,7 @@ Industry Mentor(s) Name : Sowjanya, Sandeep Doodigani
 - Implement JS and more animations
 
 ## Live
+
+
+- [@Click here for Live](https://ibm-epbl.github.io/IBM-Project-20991-1659768892/Assignment/Prakash_113119UG04070/Portfolio%20-%20Sass/)
 
