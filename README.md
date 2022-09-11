@@ -8,7 +8,7 @@ My personal portfolio which features my resume and technical skills.
 
 ## Preview
 
-![App Screenshot](supporting_files/Preview Portfolio.png)
+![App Screenshot](supporting_files/Preview.png)
 
 
 ## Built With
@@ -32,7 +32,7 @@ Industry Mentor(s) Name : Sowjanya, Sandeep Doodigani
 
 ## Future optimizations
 
-- Responsive for all Devices (Currently is work on Laptop Lg Devices)
+- Responsive for all Devices (Currently is working laptop Devices lg alone)
 - Implement JS and more animations
 
 ## Live
