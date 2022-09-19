@@ -1,0 +1,19 @@
+.nav{
+    padding: 2rem 10rem;
+    // border: solid 2px red;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    &-icons > ul{
+        display: flex;
+        list-style-type: none;
+        li >a{
+            padding: 1rem;
+            color: grey;
+            font-size: 1.6rem;
+        }
+        li:hover{
+            transform: translateY(-2px);
+        }
+    }
+}

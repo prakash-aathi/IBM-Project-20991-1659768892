@@ -1,0 +1,53 @@
+.pskills{
+    padding: 2rem 10rem;
+    &-title{
+        font-size: 1.6rem;
+        margin-bottom: 1.5rem;
+    }
+
+    h5{
+        font-size: 1.2rem;
+        color: grey;
+    }
+    .container{
+        margin: 0.6rem 2rem 0.8rem 0 ;
+        width: 450px;
+        // height: 1.2rem;
+        // border: solid 1px;
+        border-radius: 0.4rem;
+        background-color: #e6e9ed;
+    }
+    &-html{
+        width: 70%;
+    }
+    &-css{
+        width: 80%;
+    }
+    &-js{
+        width: 50%;
+    }
+    &-flask{
+        width: 10%;
+    }
+    &-sql{
+        width: 90%;
+    }
+    &-jdbc{
+        width: 10%;
+    }
+
+    .skill{
+        background-color: blue;
+        text-align: right;
+        padding: 1%;
+        border-radius: 0.4rem;
+    }
+    &-bar{
+        display: flex;
+    }
+    &-bar-right{
+        .skill{
+            background-color: green;
+        }
+    }
+}
