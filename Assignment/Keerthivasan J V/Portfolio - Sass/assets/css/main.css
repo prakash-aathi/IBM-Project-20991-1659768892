@@ -1,0 +1,192 @@
+* {
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+a {
+  text-decoration: none;
+}
+
+.nav {
+  padding: 2rem 10rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.nav-icons > ul {
+  display: flex;
+  list-style-type: none;
+}
+.nav-icons > ul li > a {
+  padding: 1rem;
+  color: grey;
+  font-size: 1.6rem;
+}
+.nav-icons > ul li:hover {
+  transform: translateY(-2px);
+}
+
+.poster {
+  padding: 3rem 5rem;
+  margin: 2rem 10rem;
+  background-color: rgba(69, 69, 239, 0.906);
+  display: flex;
+  color: white !important;
+  border-radius: 1rem;
+}
+.poster-img {
+  margin-right: 5rem;
+}
+.poster-img img {
+  width: 200px;
+  height: 200px;
+  border: 0.5rem solid white;
+}
+.poster-text-name {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+.poster-text-role {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+.poster-text-btn {
+  margin-top: 3rem;
+}
+
+.btn1 {
+  padding: 1rem 2rem;
+  border-radius: 2rem;
+  margin-top: 1.4rem;
+  margin-right: 1rem;
+  background-color: #20c997;
+  color: white;
+}
+.btn1:hover {
+  color: grey;
+  background-color: white;
+  border: 3px solid #20c997;
+}
+
+.btn2 {
+  padding: 1rem 2rem;
+  border-radius: 2rem;
+  margin-top: 1.4rem;
+  background-color: #20c997;
+  color: white;
+}
+.btn2:hover {
+  color: grey;
+  background-color: white;
+  border: 3px solid #20c997;
+}
+
+.about {
+  padding: 2rem 10rem;
+  display: flex;
+  color: grey;
+}
+.about-text {
+  width: 50%;
+  margin-right: 6rem;
+}
+.about-text-head {
+  font-size: 1.6rem;
+  margin-bottom: 1.5rem;
+  color: black;
+}
+.about-text-desc {
+  line-height: 1.4rem;
+}
+
+.table td {
+  padding: 0.4rem;
+}
+
+.pskills {
+  padding: 2rem 10rem;
+}
+.pskills-title {
+  font-size: 1.6rem;
+  margin-bottom: 1.5rem;
+}
+.pskills h5 {
+  font-size: 1.2rem;
+  color: grey;
+}
+.pskills .container {
+  margin: 0.6rem 2rem 0.8rem 0;
+  width: 450px;
+  border-radius: 0.4rem;
+  background-color: #e6e9ed;
+}
+.pskills-html {
+  width: 70%;
+}
+.pskills-css {
+  width: 80%;
+}
+.pskills-js {
+  width: 50%;
+}
+.pskills-flask {
+  width: 10%;
+}
+.pskills-sql {
+  width: 90%;
+}
+.pskills-jdbc {
+  width: 10%;
+}
+.pskills .skill {
+  background-color: blue;
+  text-align: right;
+  padding: 1%;
+  border-radius: 0.4rem;
+}
+.pskills-bar {
+  display: flex;
+}
+.pskills-bar-right .skill {
+  background-color: green;
+}
+
+.contact {
+  padding: 2rem 10rem;
+}
+.contact h3 {
+  font-size: 1.6rem;
+  margin-bottom: 1.5rem;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}/*# sourceMappingURL=main.css.map */
