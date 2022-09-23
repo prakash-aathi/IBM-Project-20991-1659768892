@@ -1,0 +1,29 @@
+.poster{
+    padding: 3rem 5rem;
+    margin: 2rem 10rem;
+    background-color: rgba(69, 69, 239, 0.906);
+    display: flex;
+    color: white !important;
+    border-radius: 1rem;
+    &-img{
+        margin-right: 5rem;
+        img{
+            width: 200px;
+            height: 200px;
+            border: 0.5rem solid white;
+        }
+    }
+    &-text{
+        &-name{
+            font-size: 2rem;
+            margin-bottom: 1rem;
+        }
+        &-role{
+            font-size: 1.2rem;
+            margin-bottom: 1rem ;
+        }
+        &-btn{
+            margin-top: 3rem;
+        }
+    }
+}
