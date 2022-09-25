@@ -1,7 +1,7 @@
 
 # Python web-app
 
-This is web-app in which there post, view ,update and delete the jobs. 
+This is web-app in which there post a job, view the jobs ,update and delete the job posts. 
 
 
 ## Built With
@@ -14,9 +14,9 @@ This is web-app in which there post, view ,update and delete the jobs.
  - VS Code Editor
 ## Preview
 
-![App Screenshot](Assignment-2-%20python%20app/supporting_files/view.png)
+![App Screenshot](supporting_files/view.png)
 
-![App Screenshot](Assignment-2-%20python%20app/supporting_files/add%20job.png)
+![App Screenshot](supporting_files/add%20job.png)
 
 
 
