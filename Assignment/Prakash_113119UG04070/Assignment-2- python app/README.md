@@ -16,6 +16,8 @@ This is web-app in which there post a job, view the jobs ,update and delete the 
 
 ![App Screenshot](supporting_files/view.png)
 
+
+
 ![App Screenshot](supporting_files/add%20job.png)
 
 
