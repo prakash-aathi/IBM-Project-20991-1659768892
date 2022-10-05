@@ -13,7 +13,7 @@ https://cdn.jsdelivr.net/gh/prakash-aathi/Flask-Gallery-Webapp@main/static/style
 
 ### Output Screenshots 
 
-![image1](Assignment-3/supporting_files/hospital1.png)
-![image2](Assignment-3/supporting_files/hospital2.png)
-![image3](Assignment-3/supporting_files/hospital3.png)
-![image4](Assignment-3/supporting_files/hospital4.png)
+![image1](supporting_files/hospital1.png)
+![image2](supporting_files/hospital2.png)
+![image3](supporting_files/hospital3.png)
+![image4](supporting_files/hospital4.png)
