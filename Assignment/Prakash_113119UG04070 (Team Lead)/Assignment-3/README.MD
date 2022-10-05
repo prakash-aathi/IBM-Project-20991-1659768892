@@ -17,3 +17,7 @@ https://cdn.jsdelivr.net/gh/prakash-aathi/Flask-Gallery-Webapp@main/static/style
 ![image2](supporting_files/hospital2.png)
 ![image3](supporting_files/hospital3.png)
 ![image4](supporting_files/hospital4.png)
+
+![image4](supporting_files/bot_embedded1.png)
+![image4](supporting_files/bot_embedded2.png)
+
