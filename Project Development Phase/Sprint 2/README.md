@@ -3,7 +3,7 @@ Sprint 2 status
 - Created a Landing page Which consists of nice UI animation
 - Connected Job search API which fetches jobs. The parameters are the required job title and location to fetch jobs.
   - The API free tier plan fetch limit is lesser so this project allowed only 3 searches for each user
-  - In the profile section update, the job search Limits are shown
+  - In the profile section the job search Limits are shown
   - The Searched job results are stored in the database.
 - The user requested the search history of the job the search results are shown
   - A job search history page was created. It shows the search history of the user
