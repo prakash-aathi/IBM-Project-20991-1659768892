@@ -8,14 +8,6 @@
 This app is a skill recommender solution through which the fresher or the skilled person can log in and find the jobs
 by using the search option and get their dream job.
 
-__Team Size : 4__
-
-
-|Team Leader :| PRAKASH A|
-| ------------|---------------|              
-|Team member 1 :| SHANMUGARAJAN M|
-|Team member 2 :| SUDHEER |
-|Team member 3 :| KEERTHIVASAN JV|
 
 ## For Easy access
 
