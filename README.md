@@ -27,13 +27,14 @@ __Team Size : 4__
   - [Project Report Documentation](https://github.com/IBM-EPBL/IBM-Project-20991-1659768892/blob/master/Final%20Deliverables/Project%20Report%20Documentation.pdf)
   - [source code](https://github.com/IBM-EPBL/IBM-Project-20991-1659768892/tree/master/Final%20Deliverables/Source%20code)
   - [documentation of source code](https://ibm-epbl.github.io/IBM-Project-20991-1659768892/Final%20Deliverables/Source%20code/documentation/app.html)
+  - [database Schema](https://github.com/IBM-EPBL/IBM-Project-20991-1659768892/blob/master/Final%20Deliverables/Database-schema/db-schema.pdf)
   
 - **Project Development Phase**
 
-  - [Sprint 1](Project%20Development%20Phase/Sprint1/)
-  - [Sprint 2](Project%20Development%20Phase/Sprint2/)
-  - [Sprint 3](Project%20Development%20Phase/Sprint3/)
-  - [Sprint 4](Project%20Development%20Phase/Sprint4/)
+  - [Sprint 1](Project%20Development%20Phase/Sprint%201)
+  - [Sprint 2](Project%20Development%20Phase/Sprint%202)
+  - [Sprint 3](Project%20Development%20Phase/Sprint%203)
+  - [Sprint 4](Project%20Development%20Phase/Sprint%204)
 - **Assignments**
   - [Prakash A](https://github.com/IBM-EPBL/IBM-Project-20991-1659768892/tree/master/Assignment/Prakash_113119UG04070%20(Team%20Lead)) 
   - [Shanmugarajan M](https://github.com/IBM-EPBL/IBM-Project-20991-1659768892/tree/master/Assignment/Shanmugarajan%20M_113119UG0497)
@@ -42,7 +43,7 @@ __Team Size : 4__
 - **Project Design & Planning**
   - [Ideation Phase](Project%20Design%20%26%20Planning/Ideation%20Phase/)
   - [Project Design Phase 1](Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/)
-  - [Project Design Phase 2](Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/)
+  - [Project Design Phase 2](Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II)
   - [Project Planning](Project%20Design%20%26%20Planning/Project%20Planning/)
 
 
