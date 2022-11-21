@@ -2,7 +2,7 @@
 
 ###  __`Team ID : PNT2022TMID22461`__
 
-<img src="https://s.yimg.com/aah/yhst-142559966768543/job-search-4.jpg" alt="🌱" height="500px"> <span>
+<img src="https://s.yimg.com/aah/yhst-142559966768543/job-search-4.jpg" alt="🌱" > <span>
 
 ## About the project
 This app is a skill recommender solution through which the fresher or the skilled person can log in and find the jobs
