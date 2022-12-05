@@ -23,7 +23,7 @@ __Team Size : 4__
 
 - **Final Deliverables**
   - [live website](https://job-app-y5a9.onrender.com/)
-  - if not work click here [live website] (https://web-production-e691.up.railway.app/)
+  - [if not work above link click here live website] (https://web-production-e691.up.railway.app/)
   - [Video](https://www.youtube.com/watch?v=b-D07LMPVlw)
   - [Project Report Documentation](https://github.com/IBM-EPBL/IBM-Project-20991-1659768892/blob/master/Final%20Deliverables/Project%20Report%20Documentation.pdf)
   - [source code](https://github.com/IBM-EPBL/IBM-Project-20991-1659768892/tree/master/Final%20Deliverables/Source%20code)
