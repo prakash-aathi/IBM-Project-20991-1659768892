@@ -22,8 +22,8 @@ __Team Size : 4__
 # Folder Structure
 
 - **Final Deliverables**
-  - [live website Load slow wait for some time](https://job-app-y5a9.onrender.com/)
   - [Video](https://www.youtube.com/watch?v=b-D07LMPVlw)
+  - [live website Load slow wait for some time](https://job-app-y5a9.onrender.com/)
   - [Project Report Documentation](https://github.com/IBM-EPBL/IBM-Project-20991-1659768892/blob/master/Final%20Deliverables/Project%20Report%20Documentation.pdf)
   - [source code](https://github.com/IBM-EPBL/IBM-Project-20991-1659768892/tree/master/Final%20Deliverables/Source%20code)
   - [documentation of source code](https://ibm-epbl.github.io/IBM-Project-20991-1659768892/Final%20Deliverables/Source%20code/documentation/app.html)
